@@ -1,0 +1,22 @@
+Atlanta, GA
+Austin, TX
+Boston, MA
+Chicago, IL
+Dallas, TX
+Denver, CO
+Detroit, MI
+Houston, TX
+Las+Vegas, NV
+Los Angeles, CA
+Miami, FL
+Minneapolis, MN
+New York, NY
+Orange, CA
+Philadelphia, PA
+Phoenix, AZ
+Portland, OR
+Raleigh, NC
+Sacramento, CA
+San Diego, CA
+Seattle, WA
+Washington, DC
